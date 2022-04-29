@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I'm [Abir Hossen](https://cse.sc.edu/~mhossen/)
 
 
 - 🔭 I’m currently working on [RASPBERRY SI](https://rb.gy/tgyued) (SpaceLander for the NASA Europa mission)
@@ -10,3 +9,11 @@
 - ⚡ Fun fact: I have 2000+ hr in Rainbow Six Siege, I played for SDSMT Esports!
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 😄 Pronouns: ...-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirhossen786&count_private=true&show_icons=true&theme=radical)
+
+
+
+
+##### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+
