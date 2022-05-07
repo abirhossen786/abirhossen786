@@ -10,10 +10,8 @@
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 😄 Pronouns: ...-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirhossen786&count_private=true&show_icons=true&theme=radical)
+![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirhossen786&count_private=true&show_icons=true&theme=radical)
 
 
-
-
-##### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+##### Thanks for visiting! ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=abirhossen786.73362969-badge&left_color=red&right_color=brightgreen) 
 
