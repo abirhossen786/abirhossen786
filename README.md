@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Abir Hossen](https://cse.sc.edu/~mhossen/)
+### Hi there 👋 I'm [Abir Hossen](https://sites.google.com/view/abirhossen/)
 
 - 👯 I’m looking to collaborate on [topics I like.](https://sites.google.com/view/abirhossen)
 - 💬 Ask me about ML, Robotics!
